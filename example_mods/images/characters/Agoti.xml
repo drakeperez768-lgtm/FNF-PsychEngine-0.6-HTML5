@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Agoti.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Agoti idle0000" x="1495" y="2567" width="469" height="850" frameX="2" frameY="-2" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Agoti idle0001" x="1964" y="2567" width="463" height="848" frameX="-2" frameY="-4" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Agoti idle0002" x="4170" y="0" width="458" height="851" frameX="-7" frameY="-1" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Agoti idle0003" x="3713" y="0" width="457" height="853" frameX="-8" frameY="1" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Agoti idle0004" x="4170" y="851" width="456" height="854" frameX="-9" frameY="2" frameWidth="466" frameHeight="850"/>
+	<SubTexture name="Agoti singDOWN 0000" x="3020" y="2567" width="600" height="647" frameX="2" frameY="-9" frameWidth="603" frameHeight="654"/>
+	<SubTexture name="Agoti singDOWN 0001" x="2427" y="2567" width="593" height="658" frameX="-10" frameY="2" frameWidth="603" frameHeight="654"/>
+	<SubTexture name="Agoti singDOWN 0002" x="1187" y="3495" width="593" height="597" frameX="-11" frameY="-59" frameWidth="603" frameHeight="654"/>
+	<SubTexture name="Agoti singDOWN 0003" x="594" y="3495" width="593" height="608" frameX="-11" frameY="-48" frameWidth="603" frameHeight="654"/>
+	<SubTexture name="Agoti singDOWN 0004" x="0" y="3495" width="594" height="611" frameX="-11" frameY="-45" frameWidth="603" frameHeight="654"/>
+	<SubTexture name="Agoti singUP0000" x="3209" y="0" width="504" height="931" frameX="2" frameY="2" frameWidth="511" frameHeight="927"/>
+	<SubTexture name="Agoti singUP0001" x="995" y="2567" width="500" height="922" frameX="-10" frameY="-7" frameWidth="511" frameHeight="927"/>
+	<SubTexture name="Agoti singUP0002" x="498" y="2567" width="497" height="928" frameX="-15" frameY="-1" frameWidth="511" frameHeight="927"/>
+	<SubTexture name="Agoti singUP0003" x="3209" y="931" width="498" height="928" frameX="-15" frameY="-1" frameWidth="511" frameHeight="927"/>
+	<SubTexture name="Agoti singUP0004" x="0" y="2567" width="498" height="928" frameX="-15" frameY="-1" frameWidth="511" frameHeight="927"/>
+	<SubTexture name="Agoti singLEFT0000" x="0" y="884" width="812" height="874" frameX="2" frameY="-8" frameWidth="809" frameHeight="880"/>
+	<SubTexture name="Agoti singLEFT0001" x="813" y="0" width="813" height="884" frameX="2" frameY="2" frameWidth="809" frameHeight="880"/>
+	<SubTexture name="Agoti singLEFT0002" x="1626" y="0" width="813" height="884" frameX="2" frameY="2" frameWidth="809" frameHeight="880"/>
+	<SubTexture name="Agoti singLEFT0003" x="0" y="0" width="813" height="884" frameX="2" frameY="2" frameWidth="809" frameHeight="880"/>
+	<SubTexture name="Agoti singRIGHT 0000" x="1610" y="884" width="790" height="805" frameX="-5" frameY="-2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0001" x="1540" y="1758" width="768" height="809" frameX="0" frameY="2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0002" x="2308" y="1758" width="768" height="809" frameX="0" frameY="2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0003" x="0" y="1758" width="770" height="809" frameX="2" frameY="2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0004" x="2439" y="0" width="770" height="809" frameX="2" frameY="2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0005" x="770" y="1758" width="770" height="809" frameX="2" frameY="2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0006" x="2439" y="809" width="770" height="809" frameX="2" frameY="2" frameWidth="794" frameHeight="805"/>
+	<SubTexture name="Agoti singRIGHT 0007" x="812" y="884" width="798" height="809" frameX="2" frameY="2" frameWidth="794" frameHeight="805"/>
+</TextureAtlas>

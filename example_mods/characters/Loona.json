@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [67, 128],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Loona singLEFT"
+		},
+		{
+			"offsets": [-5, 173],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Loona singUP"
+		},
+		{
+			"offsets": [3, -135],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Loona singDOWN"
+		},
+		{
+			"offsets": [57, 29],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Loona singRIGHT"
+		},
+		{
+			"offsets": [0, 156],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Loona idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Loona",
+	"position": [0, 0],
+	"healthicon": "Loona",
+	"flip_x": false,
+	"healthbar_colors": [83, 84, 104],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

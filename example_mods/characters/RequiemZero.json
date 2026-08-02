@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-2, 59],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RequiemZero idle"
+		},
+		{
+			"offsets": [0, 110],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RequiemZero singUP0"
+		},
+		{
+			"offsets": [0, 2],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RequiemZero singDOWN0"
+		},
+		{
+			"offsets": [0, 70],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RequiemZero singLEFT0"
+		},
+		{
+			"offsets": [0, 74],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RequiemZero singRIGHT0"
+		},
+		{
+			"offsets": [-29, 88],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "RequiemZero singLEFTmiss"
+		},
+		{
+			"offsets": [-31, 122],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "RequiemZero singUPmiss"
+		},
+		{
+			"offsets": [-21, -12],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "RequiemZero singDOWNmiss"
+		},
+		{
+			"offsets": [-6, 44],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "RequiemZero singRIGHTmiss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/RequiemZero",
+	"position": [0, 350],
+	"healthicon": "RequiemZero",
+	"flip_x": true,
+	"healthbar_colors": [137, 28, 28],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

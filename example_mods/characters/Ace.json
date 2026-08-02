@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [33, 23],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Ace singLEFT"
+		},
+		{
+			"offsets": [0, -29],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Ace singDOWN"
+		},
+		{
+			"offsets": [-6, 50],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Ace singUP"
+		},
+		{
+			"offsets": [1, -5],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Ace singRIGHT"
+		},
+		{
+			"offsets": [1, -12],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Ace idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Ace",
+	"position": [0, 0],
+	"healthicon": "Ace",
+	"flip_x": false,
+	"healthbar_colors": [187, 227, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

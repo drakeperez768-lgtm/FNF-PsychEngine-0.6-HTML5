@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-36, -86],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sayori  singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-79, -112],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sayori  singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-61, -36],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sayori  singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-86, -96],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sayori  singRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [28, -88],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sayori  idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Sayori",
+	"position": [0, 0],
+	"healthicon": "Sayori",
+	"flip_x": false,
+	"healthbar_colors": [149, 225, 249],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

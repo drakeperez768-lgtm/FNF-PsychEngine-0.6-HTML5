@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [134, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "right",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [168, 2],
+			"indices": [],
+			"fps": 24,
+			"anim": "left",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [161, -94],
+			"indices": [],
+			"fps": 24,
+			"anim": "down",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"offsets": [20, -23],
+			"indices": [],
+			"fps": 24,
+			"anim": "up",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [134, -175],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pink boi",
+	"position": [0, 0],
+	"healthicon": "pink-boi",
+	"flip_x": false,
+	"healthbar_colors": [254, 0, 254],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

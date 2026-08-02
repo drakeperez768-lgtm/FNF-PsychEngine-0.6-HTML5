@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [100, 130],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Agoti singUP"
+		},
+		{
+			"offsets": [212, 121],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Agoti singLEFT"
+		},
+		{
+			"offsets": [48, -118],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Agoti singDOWN"
+		},
+		{
+			"offsets": [152, 32],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Agoti singRIGHT"
+		},
+		{
+			"offsets": [46, 73],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Agoti idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Agoti",
+	"position": [0, 0],
+	"healthicon": "Agoti",
+	"flip_x": false,
+	"healthbar_colors": [185, 29, 37],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

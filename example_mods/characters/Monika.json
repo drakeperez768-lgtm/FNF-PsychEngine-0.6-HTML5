@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [7, 4],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Monika singLEFT"
+		},
+		{
+			"offsets": [36, -40],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Monika singDOWN"
+		},
+		{
+			"offsets": [-66, 14],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Monika singUP"
+		},
+		{
+			"offsets": [40, 32],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Monika singRIGHT"
+		},
+		{
+			"offsets": [-4, -6],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Monika idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Monika",
+	"position": [0, 0],
+	"healthicon": "Monika",
+	"flip_x": false,
+	"healthbar_colors": [140, 212, 101],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [189, -143],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "DSans singLEFT"
+		},
+		{
+			"offsets": [6, -180],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "DSans singRIGHT"
+		},
+		{
+			"offsets": [12, -191],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DSans singDOWN"
+		},
+		{
+			"offsets": [-7, -124],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "DSans singUP"
+		},
+		{
+			"offsets": [5, -165],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "DSans idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/DSans",
+	"position": [0, 0],
+	"healthicon": "DSans",
+	"flip_x": false,
+	"healthbar_colors": [153, 153, 153],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

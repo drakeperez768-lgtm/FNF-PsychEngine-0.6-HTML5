@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [80, -114],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RedShaggy singLEFT"
+		},
+		{
+			"offsets": [-40, -163],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RedShaggy singDOWN"
+		},
+		{
+			"offsets": [-58, 33],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RedShaggy singUP"
+		},
+		{
+			"offsets": [2, -40],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RedShaggy singRIGHT"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [56, 57, 58, 59],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RedShaggy idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/RedShaggy",
+	"position": [0, 0],
+	"healthicon": "RedShaggy",
+	"flip_x": false,
+	"healthbar_colors": [209, 26, 26],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

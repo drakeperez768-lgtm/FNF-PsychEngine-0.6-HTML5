@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [159, 246],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MX idle"
+		},
+		{
+			"offsets": [105, 256],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MX singLEFT"
+		},
+		{
+			"offsets": [75, 263],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MX singRIGHT"
+		},
+		{
+			"offsets": [106, 111],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MX singDOWN"
+		},
+		{
+			"offsets": [127, 296],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MX singUP"
+		},
+		{
+			"offsets": [225, 228],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "MX hey"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/MX",
+	"position": [0, 200],
+	"healthicon": "MX",
+	"flip_x": false,
+	"healthbar_colors": [57, 0, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [132, 42],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Blitzo idle"
+		},
+		{
+			"offsets": [175, 7],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Blitzo singLEFT"
+		},
+		{
+			"offsets": [230, -1],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Blitzo singRIGHT"
+		},
+		{
+			"offsets": [235, -105],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Blitzo singDOWN"
+		},
+		{
+			"offsets": [105, 150],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Blitzo singUP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Blitzo",
+	"position": [0, 0],
+	"healthicon": "Blitzo",
+	"flip_x": false,
+	"healthbar_colors": [185, 42, 54],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

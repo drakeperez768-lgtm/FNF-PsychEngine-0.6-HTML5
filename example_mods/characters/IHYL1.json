@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [56, -51],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IHYL1 idle"
+		},
+		{
+			"offsets": [124, -22],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "IHYL1 singLEFT"
+		},
+		{
+			"offsets": [13, -33],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "IHYL1 singRIGHT"
+		},
+		{
+			"offsets": [65, -305],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "IHYL1 singDOWN"
+		},
+		{
+			"offsets": [47, 17],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "IHYL1 singUP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/IHYL1",
+	"position": [0, 0],
+	"healthicon": "IHYL1",
+	"flip_x": false,
+	"healthbar_colors": [20, 180, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

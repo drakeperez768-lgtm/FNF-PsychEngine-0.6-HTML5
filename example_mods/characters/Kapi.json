@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [92, -193],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Kapi idle"
+		},
+		{
+			"offsets": [129, -146],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kapi singLEFT"
+		},
+		{
+			"offsets": [131, -247],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kapi singRIGHT"
+		},
+		{
+			"offsets": [103, -309],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Kapi singDOWN"
+		},
+		{
+			"offsets": [110, -225],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Kapi singUP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Kapi",
+	"position": [0, 0],
+	"healthicon": "Kapi",
+	"flip_x": false,
+	"healthbar_colors": [118, 113, 158],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

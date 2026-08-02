@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [96, 112],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "shaggyGlitch_idle"
+		},
+		{
+			"offsets": [233, 192],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shaggyGlitch_left"
+		},
+		{
+			"offsets": [86, 173],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "shaggyGlitch_right"
+		},
+		{
+			"offsets": [140, -3],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "shaggyGlitch_down"
+		},
+		{
+			"offsets": [101, 261],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "shaggyGlitch_up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/shaggy_glitch",
+	"position": [0, 0],
+	"healthicon": "shaggy_glitch",
+	"flip_x": false,
+	"healthbar_colors": [0, 31, 13],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [352, 238],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "shaggy_idle"
+		},
+		{
+			"offsets": [486, 210],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shaggy_left"
+		},
+		{
+			"offsets": [311, 249],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "shaggy_right"
+		},
+		{
+			"offsets": [402, 85],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "shaggy_down"
+		},
+		{
+			"offsets": [303, 321],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "shaggy_up"
+		},
+		{
+			"offsets": [368, 512],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "shaggy_attack"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/GlitchedRedShaggy",
+	"position": [0, 0],
+	"healthicon": "GlitchedRedShaggy",
+	"flip_x": false,
+	"healthbar_colors": [153, 0, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

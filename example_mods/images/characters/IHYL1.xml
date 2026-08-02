@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IHYL1.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="IHYL1 idle0000" x="2401" y="0" width="413" height="720" frameX="-32" frameY="1" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0001" x="2814" y="0" width="409" height="705" frameX="-37" frameY="-14" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0002" x="889" y="1554" width="420" height="699" frameX="-29" frameY="-20" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0003" x="445" y="1554" width="444" height="702" frameX="-6" frameY="-17" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0004" x="1469" y="811" width="460" height="704" frameX="2" frameY="-15" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0005" x="0" y="1554" width="445" height="720" frameX="-9" frameY="1" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0006" x="2401" y="1440" width="411" height="721" frameX="-34" frameY="2" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 idle0007" x="2401" y="720" width="413" height="720" frameX="-32" frameY="1" frameWidth="456" frameHeight="717"/>
+	<SubTexture name="IHYL1 singLEFT0000" x="1422" y="0" width="509" height="740" frameX="2" frameY="2" frameWidth="505" frameHeight="736"/>
+	<SubTexture name="IHYL1 singLEFT0001" x="494" y="811" width="488" height="738" frameX="-19" frameY="0" frameWidth="505" frameHeight="736"/>
+	<SubTexture name="IHYL1 singLEFT0002" x="982" y="811" width="487" height="738" frameX="-20" frameY="0" frameWidth="505" frameHeight="736"/>
+	<SubTexture name="IHYL1 singRIGHT0000" x="0" y="811" width="494" height="743" frameX="2" frameY="0" frameWidth="490" frameHeight="741"/>
+	<SubTexture name="IHYL1 singRIGHT0001" x="1931" y="745" width="468" height="745" frameX="2" frameY="2" frameWidth="490" frameHeight="741"/>
+	<SubTexture name="IHYL1 singRIGHT0002" x="1931" y="0" width="470" height="745" frameX="2" frameY="2" frameWidth="490" frameHeight="741"/>
+	<SubTexture name="IHYL1 singUP0000" x="0" y="0" width="468" height="811" frameX="-3" frameY="2" frameWidth="473" frameHeight="807"/>
+	<SubTexture name="IHYL1 singUP0001" x="468" y="0" width="477" height="793" frameX="2" frameY="-16" frameWidth="473" frameHeight="807"/>
+	<SubTexture name="IHYL1 singUP0002" x="945" y="0" width="477" height="792" frameX="2" frameY="-17" frameWidth="473" frameHeight="807"/>
+	<SubTexture name="IHYL1 singDOWN0000" x="631" y="2274" width="621" height="439" frameX="-6" frameY="-19" frameWidth="628" frameHeight="456"/>
+	<SubTexture name="IHYL1 singDOWN0001" x="0" y="2274" width="631" height="457" frameX="1" frameY="-1" frameWidth="628" frameHeight="456"/>
+	<SubTexture name="IHYL1 singDOWN0002" x="1309" y="1554" width="632" height="460" frameX="2" frameY="2" frameWidth="628" frameHeight="456"/>
+</TextureAtlas>

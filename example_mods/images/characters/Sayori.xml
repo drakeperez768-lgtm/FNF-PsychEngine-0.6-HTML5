@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sayori .png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Sayori  idle0000" x="356" y="0" width="357" height="665" frameX="-1" frameY="-12" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0001" x="0" y="0" width="356" height="672" frameX="2" frameY="-5" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0002" x="0" y="672" width="344" height="679" frameX="-10" frameY="2" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0003" x="344" y="672" width="340" height="679" frameX="-10" frameY="2" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0004" x="1638" y="0" width="313" height="679" frameX="-33" frameY="2" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0005" x="713" y="0" width="314" height="679" frameX="-33" frameY="2" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0006" x="588" y="1351" width="255" height="663" frameX="-84" frameY="-14" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0007" x="713" y="679" width="258" height="672" frameX="-71" frameY="-5" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0008" x="310" y="1351" width="278" height="673" frameX="-61" frameY="-4" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0009" x="2248" y="696" width="296" height="674" frameX="-52" frameY="-3" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0010" x="0" y="1351" width="310" height="679" frameX="-37" frameY="2" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  idle0011" x="1027" y="0" width="314" height="679" frameX="-33" frameY="2" frameWidth="356" frameHeight="675"/>
+	<SubTexture name="Sayori  singLEFT0000" x="2546" y="0" width="250" height="671" frameX="2" frameY="2" frameWidth="260" frameHeight="667"/>
+	<SubTexture name="Sayori  singLEFT0001" x="2546" y="1327" width="247" height="656" frameX="-13" frameY="-13" frameWidth="260" frameHeight="667"/>
+	<SubTexture name="Sayori  singLEFT0002" x="2546" y="671" width="247" height="656" frameX="-15" frameY="-13" frameWidth="260" frameHeight="667"/>
+	<SubTexture name="Sayori  singDOWN0000" x="843" y="1351" width="251" height="606" frameX="-1" frameY="-15" frameWidth="250" frameHeight="619"/>
+	<SubTexture name="Sayori  singDOWN0001" x="1341" y="716" width="249" height="621" frameX="2" frameY="0" frameWidth="250" frameHeight="619"/>
+	<SubTexture name="Sayori  singDOWN0002" x="1951" y="712" width="249" height="623" frameX="2" frameY="2" frameWidth="250" frameHeight="619"/>
+	<SubTexture name="Sayori  singUP0000" x="1341" y="0" width="297" height="716" frameX="1" frameY="2" frameWidth="294" frameHeight="712"/>
+	<SubTexture name="Sayori  singUP0001" x="1951" y="0" width="297" height="712" frameX="2" frameY="-2" frameWidth="294" frameHeight="712"/>
+	<SubTexture name="Sayori  singUP0002" x="2248" y="0" width="298" height="696" frameX="2" frameY="-18" frameWidth="294" frameHeight="712"/>
+	<SubTexture name="Sayori  singRIGHT0000" x="1027" y="679" width="273" height="665" frameX="2" frameY="2" frameWidth="298" frameHeight="661"/>
+	<SubTexture name="Sayori  singRIGHT0001" x="2248" y="1370" width="279" height="650" frameX="2" frameY="-13" frameWidth="298" frameHeight="661"/>
+	<SubTexture name="Sayori  singRIGHT0002" x="1638" y="679" width="302" height="636" frameX="2" frameY="-27" frameWidth="298" frameHeight="661"/>
+</TextureAtlas>

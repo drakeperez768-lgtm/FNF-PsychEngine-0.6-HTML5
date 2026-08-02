@@ -1,0 +1,36 @@
+{
+	"songs": [
+		[
+			"last-reel",
+			"Monika",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"thunderstorm-everyone",
+			"RedShaggy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS OTHERS",
+	"weekName": "WEEK9",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

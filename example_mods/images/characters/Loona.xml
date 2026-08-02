@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Loona.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Loona idle0000" x="3082" y="2557" width="473" height="905" frameX="2" frameY="-26" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0001" x="3611" y="2362" width="473" height="905" frameX="2" frameY="-26" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0002" x="4243" y="0" width="455" height="917" frameX="-2" frameY="-15" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0003" x="4243" y="917" width="455" height="917" frameX="-2" frameY="-15" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0004" x="2214" y="3535" width="444" height="929" frameX="-2" frameY="-5" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0005" x="2658" y="3535" width="444" height="929" frameX="-2" frameY="-5" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0006" x="4698" y="0" width="441" height="935" frameX="-2" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0007" x="4698" y="935" width="441" height="935" frameX="-2" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0008" x="1330" y="3535" width="442" height="935" frameX="-1" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0009" x="1772" y="3535" width="442" height="935" frameX="-1" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0010" x="444" y="3535" width="443" height="935" frameX="0" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0011" x="887" y="3535" width="443" height="935" frameX="0" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0012" x="4243" y="1834" width="444" height="935" frameX="1" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona idle0013" x="0" y="3535" width="444" height="935" frameX="1" frameY="2" frameWidth="469" frameHeight="932"/>
+	<SubTexture name="Loona singLEFT0000" x="1263" y="880" width="630" height="871" frameX="-6" frameY="-5" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0001" x="633" y="880" width="630" height="871" frameX="-6" frameY="-5" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0002" x="0" y="880" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0003" x="0" y="0" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0004" x="1266" y="0" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0005" x="633" y="0" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0006" x="0" y="880" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0007" x="0" y="0" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0008" x="1266" y="0" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singLEFT0009" x="633" y="0" width="633" height="880" frameX="1" frameY="1" frameWidth="635" frameHeight="877"/>
+	<SubTexture name="Loona singDOWN0000" x="2263" y="1760" width="479" height="609" frameX="2" frameY="-8" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0001" x="2263" y="1760" width="479" height="609" frameX="2" frameY="-8" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0002" x="1785" y="1760" width="478" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0003" x="1899" y="982" width="483" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0004" x="2434" y="982" width="490" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0005" x="1305" y="1760" width="480" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0006" x="1785" y="1760" width="478" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0007" x="1899" y="982" width="483" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0008" x="2434" y="982" width="490" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singDOWN0009" x="1305" y="1760" width="480" height="620" frameX="-1" frameY="2" frameWidth="489" frameHeight="617"/>
+	<SubTexture name="Loona singUP0000" x="2434" y="0" width="528" height="982" frameX="2" frameY="2" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0001" x="1899" y="0" width="535" height="982" frameX="2" frameY="2" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0002" x="2572" y="2557" width="510" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0003" x="516" y="2557" width="516" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0004" x="0" y="2557" width="516" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0005" x="1548" y="2557" width="514" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0006" x="2062" y="2557" width="510" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0007" x="1032" y="2557" width="516" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0008" x="0" y="2557" width="516" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singUP0009" x="1548" y="2557" width="514" height="978" frameX="-6" frameY="-1" frameWidth="531" frameHeight="978"/>
+	<SubTexture name="Loona singRIGHT0000" x="0" y="1760" width="648" height="797" frameX="1" frameY="1" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0001" x="648" y="1760" width="657" height="786" frameX="1" frameY="-10" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0002" x="2962" y="787" width="640" height="798" frameX="-4" frameY="-3" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0003" x="2962" y="0" width="649" height="787" frameX="-4" frameY="-14" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0004" x="2962" y="1585" width="635" height="787" frameX="-4" frameY="-14" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0005" x="3611" y="0" width="632" height="787" frameX="-4" frameY="-14" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0006" x="3611" y="1574" width="620" height="788" frameX="-4" frameY="-13" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0007" x="3611" y="787" width="630" height="787" frameX="-4" frameY="-14" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0008" x="2962" y="1585" width="635" height="787" frameX="-4" frameY="-14" frameWidth="655" frameHeight="799"/>
+	<SubTexture name="Loona singRIGHT0009" x="3611" y="0" width="632" height="787" frameX="-4" frameY="-14" frameWidth="655" frameHeight="799"/>
+</TextureAtlas>

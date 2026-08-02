@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kapi.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Kapi idle0000" x="2368" y="563" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi idle0001" x="1779" y="605" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi idle0002" x="2368" y="0" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi idle0003" x="1178" y="1766" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi idle0004" x="0" y="1766" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi idle0005" x="1767" y="1766" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi idle0006" x="589" y="1766" width="589" height="563" frameX="2" frameY="2" frameWidth="585" frameHeight="559"/>
+	<SubTexture name="Kapi singLEFT0000" x="1779" y="0" width="589" height="605" frameX="-2" frameY="2" frameWidth="593" frameHeight="601"/>
+	<SubTexture name="Kapi singLEFT0001" x="0" y="0" width="597" height="605" frameX="2" frameY="2" frameWidth="593" frameHeight="601"/>
+	<SubTexture name="Kapi singLEFT0002" x="597" y="0" width="591" height="603" frameX="-1" frameY="0" frameWidth="593" frameHeight="601"/>
+	<SubTexture name="Kapi singLEFT0003" x="591" y="605" width="591" height="603" frameX="-1" frameY="0" frameWidth="593" frameHeight="601"/>
+	<SubTexture name="Kapi singLEFT0004" x="1188" y="0" width="591" height="603" frameX="-1" frameY="0" frameWidth="593" frameHeight="601"/>
+	<SubTexture name="Kapi singLEFT0005" x="0" y="605" width="591" height="603" frameX="-1" frameY="0" frameWidth="593" frameHeight="601"/>
+	<SubTexture name="Kapi singDOWN0000" x="2957" y="1040" width="589" height="458" frameX="-1" frameY="2" frameWidth="592" frameHeight="454"/>
+	<SubTexture name="Kapi singDOWN0001" x="0" y="2849" width="596" height="442" frameX="2" frameY="-14" frameWidth="592" frameHeight="454"/>
+	<SubTexture name="Kapi singDOWN0002" x="1775" y="1208" width="591" height="446" frameX="0" frameY="-10" frameWidth="592" frameHeight="454"/>
+	<SubTexture name="Kapi singDOWN0003" x="2957" y="2400" width="589" height="449" frameX="-1" frameY="-7" frameWidth="592" frameHeight="454"/>
+	<SubTexture name="Kapi singDOWN0004" x="2957" y="1498" width="589" height="451" frameX="-1" frameY="-5" frameWidth="592" frameHeight="454"/>
+	<SubTexture name="Kapi singDOWN0005" x="2957" y="1949" width="589" height="451" frameX="-1" frameY="-5" frameWidth="592" frameHeight="454"/>
+	<SubTexture name="Kapi singUP0000" x="1186" y="1208" width="589" height="558" frameX="-2" frameY="2" frameWidth="593" frameHeight="554"/>
+	<SubTexture name="Kapi singUP0001" x="0" y="1208" width="597" height="558" frameX="2" frameY="2" frameWidth="593" frameHeight="554"/>
+	<SubTexture name="Kapi singUP0002" x="1182" y="605" width="597" height="558" frameX="2" frameY="2" frameWidth="593" frameHeight="554"/>
+	<SubTexture name="Kapi singUP0003" x="2368" y="1126" width="589" height="558" frameX="-2" frameY="2" frameWidth="593" frameHeight="554"/>
+	<SubTexture name="Kapi singUP0004" x="597" y="1208" width="589" height="558" frameX="-2" frameY="2" frameWidth="593" frameHeight="554"/>
+	<SubTexture name="Kapi singUP0005" x="2368" y="1684" width="589" height="558" frameX="-2" frameY="2" frameWidth="593" frameHeight="554"/>
+	<SubTexture name="Kapi singRIGHT 0000" x="2957" y="520" width="589" height="520" frameX="-2" frameY="2" frameWidth="593" frameHeight="516"/>
+	<SubTexture name="Kapi singRIGHT 0001" x="597" y="2329" width="597" height="520" frameX="2" frameY="2" frameWidth="593" frameHeight="516"/>
+	<SubTexture name="Kapi singRIGHT 0002" x="0" y="2329" width="597" height="520" frameX="2" frameY="2" frameWidth="593" frameHeight="516"/>
+	<SubTexture name="Kapi singRIGHT 0003" x="1791" y="2329" width="597" height="520" frameX="2" frameY="2" frameWidth="593" frameHeight="516"/>
+	<SubTexture name="Kapi singRIGHT 0004" x="2957" y="0" width="597" height="520" frameX="2" frameY="2" frameWidth="593" frameHeight="516"/>
+	<SubTexture name="Kapi singRIGHT 0005" x="1194" y="2329" width="597" height="520" frameX="2" frameY="2" frameWidth="593" frameHeight="516"/>
+</TextureAtlas>

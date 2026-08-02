@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shaggy_glitch.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shaggyGlitch_down0000" x="0" y="0" width="666" height="819" frameX="0" frameY="-33" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0001" x="666" y="0" width="660" height="805" frameX="0" frameY="-46" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0002" x="1326" y="0" width="655" height="797" frameX="0" frameY="-55" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0003" x="1981" y="0" width="658" height="814" frameX="0" frameY="-38" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0004" x="2639" y="0" width="662" height="831" frameX="0" frameY="-20" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0005" x="3301" y="0" width="666" height="852"/>
+	<SubTexture name="shaggyGlitch_down0006" x="3967" y="0" width="666" height="852"/>
+	<SubTexture name="shaggyGlitch_down0007" x="4633" y="0" width="666" height="852"/>
+	<SubTexture name="shaggyGlitch_down0008" x="5299" y="0" width="620" height="824" frameX="-19" frameY="-12" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0009" x="5919" y="0" width="620" height="824" frameX="-19" frameY="-12" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_down0010" x="6539" y="0" width="620" height="824" frameX="-19" frameY="-12" frameWidth="666" frameHeight="852"/>
+	<SubTexture name="shaggyGlitch_idle0000" x="7159" y="0" width="628" height="1033" frameX="-3" frameY="0" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0001" x="0" y="1033" width="627" height="1033" frameX="-3" frameY="0" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0002" x="627" y="1033" width="626" height="1030" frameX="-3" frameY="-3" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0003" x="1253" y="1033" width="619" height="1018" frameX="-1" frameY="-15" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0004" x="1872" y="1033" width="616" height="1015" frameX="-1" frameY="-18" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0005" x="2488" y="1033" width="616" height="1014" frameX="0" frameY="-19" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0006" x="3104" y="1033" width="616" height="1015" frameX="-1" frameY="-18" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0007" x="3720" y="1033" width="619" height="1019" frameX="-1" frameY="-14" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0008" x="4339" y="1033" width="625" height="1030" frameX="-3" frameY="-3" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0009" x="4964" y="1033" width="627" height="1032" frameX="-3" frameY="-1" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_idle0010" x="5591" y="1033" width="628" height="1033" frameX="-3" frameY="0" frameWidth="631" frameHeight="1033"/>
+	<SubTexture name="shaggyGlitch_left0000" x="6219" y="1033" width="839" height="1067" frameX="0" frameY="0" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0001" x="7058" y="1033" width="809" height="1066" frameX="-22" frameY="-5" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0002" x="0" y="2100" width="775" height="1062" frameX="-48" frameY="-10" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0003" x="775" y="2100" width="731" height="1057" frameX="-83" frameY="-15" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0004" x="1506" y="2100" width="687" height="1055" frameX="-118" frameY="-15" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0005" x="2193" y="2100" width="687" height="1055" frameX="-118" frameY="-15" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0006" x="2880" y="2100" width="687" height="1055" frameX="-118" frameY="-15" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0007" x="3567" y="2100" width="687" height="1055" frameX="-118" frameY="-15" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0008" x="4254" y="2100" width="652" height="1043" frameX="-131" frameY="-19" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0009" x="4906" y="2100" width="652" height="1043" frameX="-131" frameY="-19" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_left0010" x="5558" y="2100" width="652" height="1043" frameX="-131" frameY="-19" frameWidth="839" frameHeight="1072"/>
+	<SubTexture name="shaggyGlitch_right0000" x="6210" y="2100" width="737" height="1060" frameX="0" frameY="0" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0001" x="6947" y="2100" width="715" height="1028" frameX="-1" frameY="-33" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0002" x="0" y="3162" width="713" height="998" frameX="-2" frameY="-64" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0003" x="713" y="3162" width="667" height="1006" frameX="-3" frameY="-55" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0004" x="1380" y="3162" width="641" height="1013" frameX="-3" frameY="-48" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0005" x="2021" y="3162" width="624" height="1019" frameX="-3" frameY="-42" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0006" x="2645" y="3162" width="596" height="1025" frameX="-3" frameY="-36" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0007" x="3241" y="3162" width="642" height="1030" frameX="-3" frameY="-31" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0008" x="3883" y="3162" width="542" height="1035" frameX="-15" frameY="-14" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0009" x="4425" y="3162" width="542" height="1035" frameX="-15" frameY="-14" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_right0010" x="4967" y="3162" width="542" height="1035" frameX="-15" frameY="-14" frameWidth="737" frameHeight="1062"/>
+	<SubTexture name="shaggyGlitch_up0000" x="5509" y="3162" width="659" height="1160" frameX="0" frameY="0" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0001" x="6168" y="3162" width="659" height="1155" frameX="-9" frameY="-5" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0002" x="6827" y="3162" width="662" height="1149" frameX="-17" frameY="-10" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0003" x="7489" y="3162" width="672" height="1130" frameX="-16" frameY="-28" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0004" x="0" y="4322" width="685" height="1113" frameX="-13" frameY="-44" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0005" x="685" y="4322" width="699" height="1078" frameX="-9" frameY="-77" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0006" x="1384" y="4322" width="699" height="1078" frameX="-9" frameY="-77" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0007" x="2083" y="4322" width="699" height="1078" frameX="-9" frameY="-77" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0008" x="2782" y="4322" width="662" height="1066" frameX="-25" frameY="-81" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0009" x="3444" y="4322" width="662" height="1066" frameX="-25" frameY="-81" frameWidth="708" frameHeight="1160"/>
+	<SubTexture name="shaggyGlitch_up0010" x="4106" y="4322" width="662" height="1066" frameX="-25" frameY="-81" frameWidth="708" frameHeight="1160"/>
+</TextureAtlas>

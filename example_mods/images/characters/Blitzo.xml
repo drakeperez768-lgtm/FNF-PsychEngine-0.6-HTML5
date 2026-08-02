@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Blitzo.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Blitzo idle0000" x="620" y="2238" width="622" height="848" frameX="-6" frameY="-5" frameWidth="636" frameHeight="851"/>
+	<SubTexture name="Blitzo idle0001" x="0" y="1385" width="640" height="853" frameX="2" frameY="0" frameWidth="636" frameHeight="851"/>
+	<SubTexture name="Blitzo idle0002" x="2527" y="805" width="625" height="855" frameX="-3" frameY="2" frameWidth="636" frameHeight="851"/>
+	<SubTexture name="Blitzo idle0003" x="0" y="2238" width="620" height="854" frameX="-5" frameY="1" frameWidth="636" frameHeight="851"/>
+	<SubTexture name="Blitzo idle0004" x="3197" y="0" width="615" height="854" frameX="-9" frameY="1" frameWidth="636" frameHeight="851"/>
+	<SubTexture name="Blitzo idle0005" x="3197" y="854" width="610" height="853" frameX="-14" frameY="0" frameWidth="636" frameHeight="851"/>
+	<SubTexture name="Blitzo singLEFT0000" x="1878" y="2238" width="625" height="787" frameX="2" frameY="2" frameWidth="659" frameHeight="783"/>
+	<SubTexture name="Blitzo singLEFT0001" x="1242" y="2238" width="636" height="787" frameX="-10" frameY="2" frameWidth="659" frameHeight="783"/>
+	<SubTexture name="Blitzo singLEFT0002" x="1322" y="1385" width="641" height="784" frameX="-20" frameY="-1" frameWidth="659" frameHeight="783"/>
+	<SubTexture name="Blitzo singDOWN0000" x="0" y="697" width="911" height="688" frameX="-1" frameY="-7" frameWidth="915" frameHeight="693"/>
+	<SubTexture name="Blitzo singDOWN0001" x="919" y="0" width="917" height="694" frameX="2" frameY="-1" frameWidth="915" frameHeight="693"/>
+	<SubTexture name="Blitzo singDOWN0002" x="0" y="0" width="919" height="697" frameX="2" frameY="2" frameWidth="915" frameHeight="693"/>
+	<SubTexture name="Blitzo singUP0000" x="3812" y="945" width="502" height="945" frameX="-14" frameY="2" frameWidth="515" frameHeight="941"/>
+	<SubTexture name="Blitzo singUP0001" x="3812" y="0" width="512" height="945" frameX="-4" frameY="2" frameWidth="515" frameHeight="941"/>
+	<SubTexture name="Blitzo singUP0002" x="3197" y="1707" width="519" height="934" frameX="2" frameY="-9" frameWidth="515" frameHeight="941"/>
+	<SubTexture name="Blitzo singRIGHT0000" x="2527" y="0" width="670" height="805" frameX="-24" frameY="2" frameWidth="692" frameHeight="801"/>
+	<SubTexture name="Blitzo singRIGHT0001" x="640" y="1385" width="682" height="795" frameX="-7" frameY="-8" frameWidth="692" frameHeight="801"/>
+	<SubTexture name="Blitzo singRIGHT0002" x="1836" y="0" width="691" height="795" frameX="2" frameY="-8" frameWidth="692" frameHeight="801"/>
+</TextureAtlas>

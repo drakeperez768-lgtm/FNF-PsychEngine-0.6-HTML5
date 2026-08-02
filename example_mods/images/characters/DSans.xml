@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DSans.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="DSans idle0000" x="423" y="1274" width="423" height="607" frameX="2" frameY="-9" frameWidth="419" frameHeight="614"/>
+	<SubTexture name="DSans idle0001" x="0" y="1274" width="423" height="608" frameX="2" frameY="-8" frameWidth="419" frameHeight="614"/>
+	<SubTexture name="DSans idle0002" x="2022" y="0" width="417" height="613" frameX="0" frameY="-3" frameWidth="419" frameHeight="614"/>
+	<SubTexture name="DSans idle0003" x="1605" y="618" width="417" height="616" frameX="0" frameY="0" frameWidth="419" frameHeight="614"/>
+	<SubTexture name="DSans idle0004" x="1605" y="0" width="417" height="618" frameX="0" frameY="2" frameWidth="419" frameHeight="614"/>
+	<SubTexture name="DSans singDOWN0000" x="1278" y="1274" width="432" height="560" frameX="2" frameY="-5" frameWidth="428" frameHeight="563"/>
+	<SubTexture name="DSans singDOWN0001" x="846" y="1274" width="432" height="567" frameX="2" frameY="2" frameWidth="428" frameHeight="563"/>
+	<SubTexture name="DSans singLEFT 0000" x="581" y="0" width="581" height="618" frameX="2" frameY="1" frameWidth="577" frameHeight="615"/>
+	<SubTexture name="DSans singLEFT 0001" x="0" y="0" width="581" height="619" frameX="2" frameY="2" frameWidth="577" frameHeight="615"/>
+	<SubTexture name="DSans singRIGHT 0000" x="1162" y="0" width="443" height="594" frameX="2" frameY="-2" frameWidth="439" frameHeight="594"/>
+	<SubTexture name="DSans singRIGHT 0001" x="1162" y="594" width="433" height="598" frameX="2" frameY="2" frameWidth="439" frameHeight="594"/>
+	<SubTexture name="DSans singUP0000" x="410" y="619" width="402" height="655" frameX="-3" frameY="2" frameWidth="406" frameHeight="651"/>
+	<SubTexture name="DSans singUP0001" x="0" y="619" width="410" height="655" frameX="2" frameY="2" frameWidth="406" frameHeight="651"/>
+</TextureAtlas>

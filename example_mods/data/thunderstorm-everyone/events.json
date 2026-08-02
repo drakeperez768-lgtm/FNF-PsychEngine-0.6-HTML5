@@ -1,0 +1,67 @@
+	"events": [
+		[
+			20767.3469387755,
+			[
+				["Change Character", "0", "Sayori"],
+				["Change Character", "1", "GreenShaggy"],
+				["Change Character", "1", "GreenShaggy"]
+			]
+		],
+		[
+			44267.3469387755,
+			[
+				["Change Character", "1", "Loona"]
+			]
+		],
+		[
+			53967.3469387755,
+			[
+				["Change Character", "0", "Blitzo"]
+			]
+		],
+		[
+			63667.3469387755,
+			[
+				["Change Character", "1", "MX"]
+			]
+		],
+		[
+			73467.3469387755,
+			[
+				["Change Character", "0", "IHYL1"]
+			]
+		],
+		[
+			93067.3469387755,
+			[
+				["Change Character", "1", "Ace"],
+				["Change Character", "0", "Eteled"]
+			]
+		],
+		[
+			104067.346938776,
+			[
+				["Change Character", "0", "Kapi"]
+			]
+		],
+		[
+			117567.346938776,
+			[
+				["Change Character", "0", "DSans"]
+			]
+		],
+		[
+			127467.346938776,
+			[
+				["Change Character", "1", "Tabi"]
+			]
+		],
+		[
+			137167.346938776,
+			[
+				["Change Character", "0", "Agoti"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
